@@ -38,6 +38,7 @@ void Game::Go()
 
 void Game::UpdateModel()
 {
+	//my stuff =D
 }
 
 void Game::ComposeFrame()
